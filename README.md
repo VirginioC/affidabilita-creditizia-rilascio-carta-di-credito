@@ -1,7 +1,7 @@
 # Previsione dell'affidabilità creditizia per il rilascio della carta di credito
 
 ## Descrizione del progetto
-Questo progetto, realizzato durante il Master in Data Science di Profession AI, si propone di sviluppare col linguaggio **Python** e la libreria **scikit-learn**, su ambiente **Google Colab**, un modello di machine learning per prevedere l'affidabilità dei clienti di una banca che richiedono una carta di credito. Il progetto analizza i dati dei richiedenti, fornendo uno strumento utile alle istituzioni finanziarie per ridurre i rischi di insolvenza e migliorare l'efficienza del processo decisionale.
+Questo progetto, realizzato durante il Master in Data Science di Profession AI, si propone di sviluppare col linguaggio **Python** e la libreria **scikit-learn**, su ambiente **Google Colab**, un modello di machine learning per prevedere l'affidabilità dei clienti di una banca che richiedono la carta di credito. Il progetto analizza i dati dei richiedenti, fornendo uno strumento utile alle istituzioni finanziarie per ridurre i rischi di insolvenza e migliorare l'efficienza del processo decisionale.
 
 ### Politica aziendale
 Si ipotizza che la banca abbia necessità di adottare una **politica di assunzione del rischio** e pertanto l'obiettivo è quello di massimizzare la recall dei clienti ritenuti affidabili. In questo modo si riducono al minimo i clienti affidabili classificati come inaffidabili senza perdere potenziali clienti validi, anche a costo di una precisione minore.
