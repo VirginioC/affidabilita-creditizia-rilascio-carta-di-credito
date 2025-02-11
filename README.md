@@ -60,7 +60,7 @@ Il progetto è organizzato nelle seguenti fasi:
 ## Tecnologie utilizzate
 - **Linguaggio**: Python
 - **Ambiente di sviluppo**: Google Colab (Jupyter Notebook)
-- **Librerie principali**:
+- **Librerie**:
    - `pandas`
    - `numpy`
    - `matplotlib`
