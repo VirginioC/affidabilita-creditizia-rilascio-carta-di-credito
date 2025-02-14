@@ -71,7 +71,7 @@ Il progetto è organizzato nelle seguenti fasi:
 ## Utilizzo  
 1. Scarica o clona il repository.
 2. Apri il file `affidabilità_creditizia_rilascio_carta_di_credito.ipynb` su Google Colab o altri ambienti compatibili con Jupyter Notebook.
-3. Esegui il codice passo-passo per ottenere i risultati delle analisi.
+3. Esegui il codice passo-passo per ottenere i risultati.
 4. I dataset utilizzati si trovano nel file ZIP `credit_card_approval.zip` presente nel repository ed estratto durante l'esecuzione del notebook.
 
 ## Autore
