@@ -9,8 +9,8 @@ Si ipotizza che la banca abbia necessità di adottare una **politica di assunzio
 ### Dataset
 Si hanno a disposizione due dataset, contenuti all'interno del file zip `credit_card_approval.zip` presente nel repository:
 
-1. **`application_record.csv`**: contiene informazioni personali e finanziarie dei richiedenti come ID, età, stato civile e reddito.
-2. **`credit_record.csv`**: include i dati sullo storico dei pagamenti dei richiedenti:
+1. **`application_record.csv`**: contiene informazioni personali e finanziarie dei richiedenti come ID, età, stato civile e reddito (438557 samples).
+2. **`credit_record.csv`**: include i dati sullo storico dei pagamenti dei richiedenti (1048575 samples):
    
    - `ID`: codice identificativo univoco del cliente.
    - `MONTHS_BALANCE`: il mese dei dati estratti è il punto di partenza ossia 0 è il mese corrente, -1 è il mese precedente e così via.
